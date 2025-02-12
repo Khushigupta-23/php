@@ -7,7 +7,7 @@ Welcome to my **30-day PHP learning journey!** Every day, I'll explore new PHP c
 | Day  | Topics Covered | Files Added |
 |------|---------------|------------|
 | 1️⃣  | Loops, Arrays, Functions, GET & POST | `loops.php`, `arrays.php`, `functions.php`, `get_post.php` |
-| 2️⃣	| Database Connection, Table Creation, Data Insertion, Date Handling | createTable.php, mySqlDb.php, date.php, insert.php |
----
+| 2️⃣	| Database Connection, Table Creation, Data Insertion, Date Handling | `createTable.php`, `mySqlDb.php`, `date.php`, `insert.php` |
+
 
 🔗 **Stay tuned! More updates coming soon!** 🚀  
