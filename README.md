@@ -1,4 +1,4 @@
-# 🚀 30 Days of PHP Learning Challenge  
+# 🚀 15 Days of PHP Learning Challenge  
 
 Welcome to my **30-day PHP learning journey!** Every day, I'll explore new PHP concepts and update this repository with my progress.  
 
