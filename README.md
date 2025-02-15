@@ -12,4 +12,4 @@ Welcome to my **15-day PHP learning journey!** Every day, I'll explore new PHP c
 | 4️⃣	| include & require, Setting & Getting Cookies | `table.php `,`include.php`,`require.php`,`cookie.php`,`getcookie.php` |
 | 5️⃣	| Filters in PHP, Sessions, JSON Encoding |	`filter.php`, `session.php`, `getsession.php`, `json_encode.php` |
 
-🔗 **Stay tuned! More updates coming soon!** 🚀  
+🔗 **Stay tuned! More updates coming soon!**🚀  
