@@ -11,5 +11,6 @@ Welcome to my **15-day PHP learning journey!** Every day, I'll explore new PHP c
 | 3️⃣	| Update, Select, Delete operations & WHERE clause in PHP	| `delete_data.php`, `select_display_data.php`, `update_data.php`, `where_cause.php` |
 | 4️⃣	| include & require, Setting & Getting Cookies | `table.php `,`include.php`,`require.php`,`cookie.php`,`getcookie.php` |
 | 5️⃣	| Filters in PHP, Sessions, JSON Encoding |	`filter.php`, `session.php`, `getsession.php`, `json_encode.php` |
+| 6️⃣  | Object-Oriented Programming (OOP), Classes & Objects | `oop.php`, `classes.php`, `object.php` |
 
 🔗 **Stay tuned! More updates coming soon!**🚀  
