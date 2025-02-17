@@ -12,5 +12,7 @@ Welcome to my **15-day PHP learning journey!** Every day, I'll explore new PHP c
 | 4️⃣	| include & require, Setting & Getting Cookies | `table.php `,`include.php`,`require.php`,`cookie.php`,`getcookie.php` |
 | 5️⃣	| Filters in PHP, Sessions, JSON Encoding |	`filter.php`, `session.php`, `getsession.php`, `json_encode.php` |
 | 6️⃣  | Object-Oriented Programming (OOP), Classes & Objects | `oop.php`, `classes.php`, `object.php` |
+| 7️⃣  | Constructor, Destructor, Access Modifiers | `constructor.php`, `destructor.php`, `accessModifiers.php` |
+
 
 🔗 **Stay tuned! More updates coming soon!**🚀  
