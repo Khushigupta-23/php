@@ -14,6 +14,7 @@ Welcome to my **10-day PHP learning journey!** Every day, I'll explore new PHP c
 | 6️⃣  | Object-Oriented Programming (OOP), Classes & Objects | `oop.php`, `classes.php`, `object.php` |
 | 7️⃣  | Constructor, Destructor, Access Modifiers | `constructor.php`, `destructor.php`, `accessModifiers.php` |
 | 8️⃣  | Inheritance, Constants, Abstract Classes | `inheritance.php`, `constant.php`, `abstract.php` |
+| 9️⃣ | Interfaces, Static Methods & Namespaces | `interface.php`, `staticMethods.php`, `namespace.php` |
 
 
 🔗 **Stay tuned! More updates coming soon!**🚀  
