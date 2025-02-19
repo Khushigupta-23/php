@@ -17,4 +17,4 @@ Welcome to my **10-day PHP learning journey!** Every day, I'll explore new PHP c
 | 9️⃣ | Interfaces, Static Methods & Namespaces | `interface.php`, `staticMethods.php`, `namespace.php` |
 
 
-🔗 **Stay tuned! More updates coming soon!**🚀 . 
+🔗 **Stay tuned! More updates coming soon!**🚀 
