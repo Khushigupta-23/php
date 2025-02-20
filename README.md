@@ -15,7 +15,19 @@ Welcome to my **10-day PHP learning journey!** Every day, I'll explore new PHP c
 | 7️⃣  | Constructor, Destructor, Access Modifiers | `constructor.php`, `destructor.php`, `accessModifiers.php` |
 | 8️⃣  | Inheritance, Constants, Abstract Classes | `inheritance.php`, `constant.php`, `abstract.php` |
 | 9️⃣ | Interfaces, Static Methods & Namespaces | `interface.php`, `staticMethods.php`, `namespace.php` |
+| 1️⃣0️⃣ | CRUD Operations (Create, Read, Update, Delete) in PHP & MySQL | `crudProject.php`|
 
-.......
+---
 
-🔗 **Stay tuned! More updates coming soon!**🚀 
+## 🎉 **End of My PHP Journey! 🚀**  
+
+Over the past 10 days, I explored the basic concepts of PHP. This journey has been an incredible learning experience, helping me understand how PHP interacts with database and builds dynamic web applications.  
+
+This **CRUD Notes Application** is my final project, representing all the knowledge I gained throughout this journey. But this is just the beginning—I'll continue exploring and mastering web development!  
+
+💡 **What’s next?** I plan to dive deeper into full-stack development, enhancing my skills in backend technologies and working on more real-world projects.  
+
+📌 **Thank you, PHP!** Here’s to new beginnings and bigger challenges ahead! 🚀✨  
+
+---
+ 
